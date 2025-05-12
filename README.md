@@ -1,2 +1,2 @@
 # DSA-
-this repository contain question i practice 
+this repository contain question  practice by me. 
